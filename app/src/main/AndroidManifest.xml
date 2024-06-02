@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-	package="com.poweramp.v3.vispresets.curatedvizsets">
+	package="com.poweramp.v3.vispresets.scopes">
 
 	<application
 		android:allowBackup="true"
